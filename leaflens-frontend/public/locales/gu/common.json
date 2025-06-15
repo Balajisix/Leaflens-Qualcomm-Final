@@ -1,0 +1,19 @@
+{
+  "title": "લીફલેન્સ",
+  "upload_prompt": "પાંદડાની છબી અપલોડ કરો અથવા કૅપ્ચર કરો",
+  "select_language": "ભાષા પસંદ કરો",
+  "detect_button": "રોગ શોધો",
+  "detecting": "શોધવામાં આવી રહ્યું છે…",
+  "symptoms": "લક્ષણો",
+  "prevention": "રોકથામ",
+  "loading_model": "મોડેલ લોડ કરી રહ્યું છે…",
+  "predicted": "ભવિષ્યવાણી",
+  "error_inference": "ચકાસણીમાં ભૂલ",
+  "enter_plant_name": "પૌધાનું નામ દાખલ કરો",
+  "select_plant": "– છોડ પસંદ કરો –",
+  "get_insights": "માહિતી મેળવો",
+  "disease_type": "રોગનો પ્રકાર",
+  "treatments": "ઉપચાર",
+  "fertilizers": "ખાતર",
+  "expected_yield": "આપેક્ષિત ઉપજ"
+}

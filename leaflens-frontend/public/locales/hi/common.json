@@ -1,0 +1,19 @@
+{
+  "title": "लीफलेंस",
+  "upload_prompt": "एक पत्ते की छवि अपलोड करें या कैप्चर करें",
+  "select_language": "भाषा चुनें",
+  "detect_button": "रोग पहचानें",
+  "detecting": "पहचान की जा रही है…",
+  "symptoms": "लक्षण",
+  "prevention": "रोकथाम",
+  "loading_model": "मॉडल लोड हो रहा है…",
+  "predicted": "भविष्यवाणी",
+  "error_inference": "पहचान में त्रुटि",
+  "enter_plant_name": "पौधे का नाम दर्ज करें",
+  "select_plant": "– पौधा चुनें –",
+  "get_insights": "जानकारी प्राप्त करें",
+  "disease_type": "रोग का प्रकार",
+  "treatments": "उपचार",
+  "fertilizers": "उर्वरक",
+  "expected_yield": "अपेक्षित उपज"
+}

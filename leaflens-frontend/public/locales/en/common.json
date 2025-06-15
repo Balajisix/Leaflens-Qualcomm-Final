@@ -1,0 +1,19 @@
+{
+  "title": "LeafLens",
+  "upload_prompt": "Upload or capture a leaf image",
+  "select_language": "Select Language",
+  "detect_button": "Detect Disease",
+  "detecting": "Detecting…",
+  "symptoms": "Symptoms",
+  "prevention": "Prevention",
+  "loading_model": "Loading model…",
+  "predicted": "Prediction",
+  "error_inference": "Inference error",
+  "enter_plant_name": "Enter Plant Name",
+  "select_plant": "– Select Plant –",
+  "get_insights": "Get Insights",
+  "disease_type": "Disease Type",
+  "treatments": "Treatments",
+  "fertilizers": "Fertilizers",
+  "expected_yield": "Expected Yield"
+}

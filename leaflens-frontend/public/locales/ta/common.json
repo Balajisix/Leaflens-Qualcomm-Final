@@ -1,0 +1,19 @@
+{
+  "title": "LeafLens",
+  "upload_prompt": "இலைப் புகைப்படத்தை பதிவேற்றவும் அல்லது பிடிக்கவும்",
+  "select_language": "மொழியைத் தேர்வு செய்யவும்",
+  "detect_button": "நோயைக் கண்டறி",
+  "detecting": "கண்டறிகிறது…",
+  "symptoms": "அறிகுறிகள்",
+  "prevention": "தடுப்பு",
+  "loading_model": "மாதிரியை ஏற்றுகிறது…",
+  "predicted": "கணிப்பு",
+  "error_inference": "கணிப்பு பிழை",
+  "enter_plant_name": "செடிப் பெயரை உள்ளிடவும்",
+  "select_plant": "– செடியைத் தேர்ந்தெடுக்கவும் –",
+  "get_insights": "தகவல்கள் பெறவும்",
+  "disease_type": "நோய் வகை",
+  "treatments": "சிகிச்சைகள்",
+  "fertilizers": "உரைப்பொருட்கள்",
+  "expected_yield": "எதிர்பார்க்கப்பட்ட விளைவு"
+}
